@@ -1,0 +1,44 @@
+body{
+    margin: 0px 450px 0px 450px;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+h1 {
+    font-family: "Playfair Display", serif;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 1.2;
+    text-align: center;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+article{
+    display: inline;
+    float: left;
+    width: 70%;
+}
+article p{
+    text-align: left;
+    width: 590px;
+    line-height: 1.5;
+}
+.img-article{
+    align-items: center;
+}
+aside{
+    display: inline;
+    float: right;
+    width: 30%;
+}
+.img-aside{
+    width: 30%;
+}
+ul{
+    list-style: none;
+}
