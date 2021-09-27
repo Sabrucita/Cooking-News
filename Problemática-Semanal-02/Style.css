@@ -207,3 +207,7 @@ aside{
     border: none;
     transition: all 0.35s;
 }
+footer{
+    display: block;
+    width: 100%;
+}
