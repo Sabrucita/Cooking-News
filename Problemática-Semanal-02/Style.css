@@ -18,7 +18,7 @@ nav{
 #logo-nav{
     object-fit: cover;
     width:133px;
-    height:60px;
+    max-height:60px;
     vertical-align: middle;
 }
 button{
@@ -86,6 +86,14 @@ article p{
     text-align: left;
     width: 590px;
     line-height: 1.5;
+}
+#foto-1{
+    width:720px;
+    height:450px;
+}
+.foto{
+    width:720px;
+    height:450px;
 }
 .img-article{
     align-items: center;
