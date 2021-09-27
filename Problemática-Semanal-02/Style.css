@@ -186,3 +186,19 @@ aside{
     height:48px;
     padding-left: 100px;
 }
+#load-comments{
+    background-color: #fff;
+    color: #1e1e1e;
+    padding: 12px 220px;
+    font-size: 14px;
+    border: 1px solid #808080;
+}
+#load-comments:hover{
+    background-color: #DD3900;
+    color: #fff;
+    border: none;
+    transition: all 0.35s;
+}
+footer{
+    background-color: #1e1e1e;
+}
