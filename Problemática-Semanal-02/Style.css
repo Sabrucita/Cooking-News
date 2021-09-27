@@ -65,6 +65,15 @@ h1 {
 h2{
     font-family: "Playfair Display", serif;
 }
+#sub-title{
+    color: #808080;
+    font-size: 13px;
+    text-align:center;
+    letter-spacing: 3px;
+}
+p{
+    margin:20px 0px 20px 0px;
+}
 article{
     display: inline;
     float: left;
@@ -77,6 +86,15 @@ article p{
 }
 .img-article{
     align-items: center;
+}
+.image-text{
+    font-size: 13px;
+    color: #1e1e1e;
+    text-align: center;
+}
+#firstphoto-text{
+    margin-top:10px;
+    text-align: left;
 }
 aside{
     display: inline;
@@ -111,4 +129,50 @@ aside{
 }
 .related-li{
     list-style: none;
+}
+.subs{
+    border: 1px solid rgba(0,0,0,0.1);
+    padding: 0px 25px 25px 25px;
+    margin-top: 50px;
+}
+#subs-button{
+    background-color: #DD3900;
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    outline: none;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+#subs-input{
+    border: 1px solid #DD3900;
+    width: 140px;
+    height: 40px;
+    font-size: 13px;
+    text-align: center;
+}
+#txt-subs{
+    font-size: 11px;
+    color: #999999;
+}
+#txt-subs a{
+    color: #1e1e1e;
+    text-decoration: none;
+}
+#txt-subs a:hover{
+    color: #DD3900;
+}
+#h2-subs{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 900px;
+}
+#p-subs{
+    font-size: 16px;
+}
+#logo-subs{
+    width:48px;
+    height:48px;
+    padding-left: 100px;
 }
